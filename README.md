@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=catppuccin_mocha&line1=Javascript,Javascript,FFFF33;html5,html5,F99210;css3,css3,107DF9;react,react,0DDFF8;&line2=cpp,cpp,f8e45c;git,git,e2087e;&line3=VScodium,VSCodium,0dcb78;node,node,0DF80D;express,express,FFFFFF;" alt="My Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=catppuccin_mocha&line1=Javascript,Javascript,FFFF33;html5,html5,F99210;css3,css3,107DF9;react,react,0DDFF8;&line2=cpp,cpp,f8e45c;git,git,e2087e;&line3=VScodium,VSCodium,0dcb78;nodejs,nodejs,0DF80D;express,express,FFFFFF;" alt="My Tech Stack" />
 </p>
 
 
