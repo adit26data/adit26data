@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Adit(26data|nd Kaushal)|https://adit26.kaushal)" title="👋 Hi there! I'm (Adit(26data|nd Kaushal)|https://adit26.kaushal)"/>](https://adit26.kaushal/)
+[<img src="https://raw.githubusercontent.com/adit26data/adit26data/master/intro.gif" alt="👋 Hi there! I'm (adit(26data|nd kaushal)|https://adit.kaushal)" title="👋 Hi there! I'm (adit(26data|nd kaushal)|https://raymond.li)"/>](https://raymond.li/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=adit26data.adit26data&color=00cf00)
 <!--
