@@ -20,5 +20,4 @@
 ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=adit26data&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit26data&layout=compact&title_color=94e2d5&text_color=cdd6f4&bg_color=1e1e2e&icon_color=cba6f7hide=css,html,php,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-Inspired by @actuallyaryaman
-
+Inspired by [@actuallyaryaman](https://github.com/actuallyaryaman/actuallyaryaman)
