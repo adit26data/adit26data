@@ -17,6 +17,7 @@
 - 💻 I enjoy working with **HTML, CSS, React, Javascript and Node. I am well familiarised with web development technologies**
 - 💬 Talk to me about football, books, carrom, history, films and pretty much anything else.
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
+- Currently working on a full fledged FULL STACK ECOMMERCE PLATFORM 
 
 
 ### Socials
