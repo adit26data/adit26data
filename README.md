@@ -1,8 +1,15 @@
-# Hi! Adit here!. <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
+# Hi! Adit here! <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
 [![Github Badge](https://img.shields.io/github/followers/adit26data?style=social)](https://github.com/adit26data)
 
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="150">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="150" alt="animated hello">
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="150">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="150">
 <br><br>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
 
