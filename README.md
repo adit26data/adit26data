@@ -1,7 +1,8 @@
 # Hi! Adit here!. <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
 [![Github Badge](https://img.shields.io/github/followers/adit26data?style=social)](https://github.com/adit26data)
 
-![](assets/coder.gif?format=30w)
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
 
@@ -24,9 +25,9 @@
 ### Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adit-kaushal-34bab221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adit kaushal" height="30" width="40" /></a>
-<a href="https://facebook.com/profile.php?id=100008239922937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adit kaushal" height="30" width="40" /></a>
-<a href="https://instagram.com/adit26star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adit kaushal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Adit-Kaushal/pfbid0TLwvCTTVXDkibGFeTYDVgs5nZU78GTWnB8j1jAJBpdwzLcE65Ckf9DUPh9ZvibEcl/"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"></a>
+<a href="https://www.linkedin.com/in/adit-kaushal-34bab221b/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://www.instagram.com/adit26data/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 </p>
 
 # 💻 Tech Stack:
