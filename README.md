@@ -18,7 +18,7 @@
 - 💬 Talk to me about football, books, carrom, history, films and pretty much anything else.
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
 - Currently working on a full fledged FULL STACK ECOMMERCE PLATFORM 
-- <a href="https://violet-ariela-25.tiiny.site/">Resume</a>
+- <a href="https://aditkaushalresume.tiiny.site//">Resume</a>
 
 
 ### Socials
