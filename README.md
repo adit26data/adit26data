@@ -18,7 +18,8 @@
 - 💻 I enjoy working with **HTML, CSS, React, Javascript and Node. I am well familiarised with web development technologies**
 - 💬 Talk to me about football, books, carrom, history, films and pretty much anything else.
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
-- Currently working on a full fledged FULL STACK ECOMMERCE PLATFORM 
+- Currently working on a Python GUI Tkinter based project for DRDO as a technical trainee at INMAS-DRDO.
+- Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
 - <a href="https://aditkaushalresume.tiiny.site">Resume</a>
 
 
