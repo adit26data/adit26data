@@ -25,6 +25,9 @@
 - Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
 - <a href="https://aditkaushalresume.tiiny.site">Resume</a>
 
+<!-- +<img alt="AWS-Certified-Cloud-Practitioner" src="https://user-images.githubusercontent.com/40695548/156188753-442a1f51-3e9c-410a-83e7-79ed736efc2e.png" width="100px"/>+ -->
+
+
 
 ### Socials
 <h3 align="left">Connect with me:</h3>
