@@ -25,7 +25,7 @@
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
 - 👔Currently working on a Python GUI Tkinter based project for DRDO as a technical trainee at INMAS-DRDO.
 - ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
-- <a href="https://aditresume.tiiny.site">Resume</a>
+- ☄<a href="https://aditresume.tiiny.site">Resume</a>
 
 <!-- +<img alt="AWS-Certified-Cloud-Practitioner" src="https://user-images.githubusercontent.com/40695548/156188753-442a1f51-3e9c-410a-83e7-79ed736efc2e.png" width="100px"/>+ -->
 
