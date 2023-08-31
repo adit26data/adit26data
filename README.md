@@ -26,6 +26,7 @@
 - 👔Currently working on a Python GUI Tkinter based project for DRDO as a technical trainee at INMAS-DRDO.
 - ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
 - ☄<a href="https://aditresume.tiiny.site">Resume</a>
+- ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
 
 <!---+### Certifications
 #### Cloud Certifications
