@@ -28,15 +28,10 @@
 - ☄<a href="https://aditresume.tiiny.site">Resume</a>
 - ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
 
-<!---+### Certifications
-#### Cloud Certifications
+### Certifications
 <p>
-<img alt="AWS-Certified-Cloud-Practitioner" src="https://user-images.githubusercontent.com/40695548/156188753-442a1f51-3e9c-410a-83e7-79ed736efc2e.png" width="100px"/>
-<img alt="AWS-Certified-Cloud-Practitioner" src="https://blogs.sap.com/wp-content/uploads/2021/09/clouddigitalleader.png" width="100px"/>
+<img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100px"/>
 </p>
-
-#### Miscellaneous Certifcations
-<p><img alt="AWS-Certified-Cloud-Practitioner" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BHEL_logo.svg/1200px-BHEL_logo.svg.png" width="100px"/></p>+-->
 
 
 
