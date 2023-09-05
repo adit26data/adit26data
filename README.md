@@ -28,9 +28,10 @@
 - ☄<a href="https://aditresume.tiiny.site">Resume</a>
 - ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
 
-### Certifications
+### Badges
 <p>
 <img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100px"/>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" width="100px"/>  
 </p>
 
 
