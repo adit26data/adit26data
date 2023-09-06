@@ -30,9 +30,13 @@
 
 ### Badges
 <p>
-<img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100px"/>
-<img alt="Google CDL" src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" width="100px"/> 
-<img alt="Google CDL" src="https://cdn.qwiklabs.com/4PKyOWdv7mWo%2FKM2XFCE1UwMLpWR35w7MszVzjcQnPU%3D" width="100px"/>  
+<img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="150px"/>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" width="150px"/> 
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/4PKyOWdv7mWo%2FKM2XFCE1UwMLpWR35w7MszVzjcQnPU%3D" width="150px"/>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/S9KWMHq5muzmzc%2Fwk%2Blonu6giR8MR0HbkG0CosB2Ygg%3D" width="150px"/>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/%2BfckvVbPJ%2BOFpCS%2FlDhi%2BpthydzT%2FejEe0tK2ectXTE%3D" width="150px"/>
+
+
 </p>
 
 
