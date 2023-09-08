@@ -36,6 +36,13 @@
 <img alt="Google CDL" src="https://cdn.qwiklabs.com/S9KWMHq5muzmzc%2Fwk%2Blonu6giR8MR0HbkG0CosB2Ygg%3D" width="150px"/>
 <img alt="Google CDL" src="https://cdn.qwiklabs.com/%2BfckvVbPJ%2BOFpCS%2FlDhi%2BpthydzT%2FejEe0tK2ectXTE%3D" width="150px"/>
 
+#### Google Arcade 2023 Badges
+<p>
+<img alt="Google Arcade" src="https://cdn.qwiklabs.com/fIDwX5GqqVuJ5rb2ATEpJdbuTSX37mGUA3UzAJak9e0%3D" width="150px"/>
+<!-- <img alt="Google Arcade" src="https://cdn.qwiklabs.com/7fmgRtHxYZNwjLYPhJ8b8VLlp1s7NRHgekGNFNyk1ak%3D" width="150px"/>
+<img alt="Google Arcade" src="https://cdn.qwiklabs.com/g1AE7vnBOA6YLmx03%2FxeoOxkjAvG7ZE%2FU76PYsoWbTQ%3D" width="150px"/> -->
+</p>
+
 
 </p>
 
