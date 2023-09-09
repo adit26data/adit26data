@@ -25,6 +25,7 @@
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
 - 👔Currently working on a Python GUI Tkinter based project for DRDO as a technical trainee at INMAS-DRDO.
 - ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
+- Also participating in the Google Cloud Arcade 2023 for September to December months
 - ☄<a href="https://aditresume.tiiny.site">Resume</a>
 - ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
 
