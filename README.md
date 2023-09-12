@@ -48,13 +48,7 @@
 <img alt="Google Arcade" src="https://cdn.qwiklabs.com/UtDNNBQRuhR1QFO4SEw0%2Bo8NBzUOoMfPbKeOozFOmtM%3D" width="150px"/>
 </p>
 
-
 </p>
-
-
-
-
-
 
 ### Socials
 <h3 align="left">Connect with me:</h3>
@@ -76,6 +70,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adit26data&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Dev Quote
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
