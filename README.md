@@ -46,6 +46,7 @@
 #### Google Arcade 2023 Badges
 <p>
 <img alt="Google Arcade" src="https://cdn.qwiklabs.com/UtDNNBQRuhR1QFO4SEw0%2Bo8NBzUOoMfPbKeOozFOmtM%3D" width="150px"/>
+<img alt="Google Arcade" src="https://cdn.qwiklabs.com/%2FPhZyxM0cNcWOnb4ExYMIM3Q3noh85i%2BNhKg%2FlT9Awg%3D" width="150px"/>
 </p>
 
 </p>
