@@ -28,6 +28,7 @@
 - Also participating in the Google Cloud Arcade 2023 for September to December months
 - ☄<a href="https://aditresume.tiiny.site">Resume</a>
 - ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
+- 💻a href="https://leetcode.com/Adit_Kaushal/">Leetcode profile</a>
 
 ### Badges
 #### AWS Badges
