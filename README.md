@@ -72,6 +72,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=adit26data&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adit26data&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# Hacktoberfest Holopins
+<a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln2sbq9b63620fl3r2bz0d2h"><img alt="Holopin" src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="150px"/></a>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit26data&" alt="adit26data" /></p>
 
