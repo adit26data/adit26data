@@ -76,8 +76,7 @@
 
 
 # Hacktoberfest Holopins
-<a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln2sbq9b63620fl3r2bz0d2h"><img alt="Holopin" src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="150px"/></a>
-<a href="https://www.holopin.io/userbadge/cln5lmj6t46240gl3cpprua34"><img alt="Holopin" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="150px"/></a>
+[![An image of @adit26data's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adit26data)](https://holopin.io/@adit26data)
 
 ### ✍️ Dev Quote
 
