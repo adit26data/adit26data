@@ -82,8 +82,9 @@
 
 
 
-# Hacktoberfest Holopins
+# Hacktoberfest Holopins Board
 [![An image of @adit26data's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adit26data)](https://holopin.io/@adit26data)
+
 ### ✍️ Dev Quote
 
 
