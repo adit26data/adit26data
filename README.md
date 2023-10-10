@@ -81,10 +81,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit26data&" alt="adit26data" /></p>
 
 
-
-# Hacktoberfest Holopins Board
-[![An image of @adit26data's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adit26data)](https://holopin.io/@adit26data)
-
+# Hacktoberfest 2023 Board
+[![@adit26data's Holopin board](https://holopin.io/api/user/board?user=adit26data)](https://holopin.io/@adit26data)
 
 ### ✍️ Dev Quote
 
