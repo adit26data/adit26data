@@ -82,8 +82,7 @@
 
 
 # Hacktoberfest 2023 Board
-[![@adit26data's Holopin board](https://holopin.io/api/user/board?user=adit26data)](https://holopin.io/@adit26data)
-
+[![An image of @adit26data's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adit26data)](https://holopin.io/@adit26data)
 ### ✍️ Dev Quote
 
 
