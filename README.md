@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working with **React JS** and starting machine learning concepts!!
 
 - 💬 Ask me about **react, bootstrap and movies!**
 
