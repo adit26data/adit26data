@@ -81,6 +81,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit26data&" alt="adit26data" /></p>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adit26data&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # Hacktoberfest 2023 Board
 [![An image of @adit26data's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adit26data)](https://holopin.io/@adit26data)
 ### ✍️ Dev Quote
