@@ -1,10 +1,7 @@
-# Hi! Adit here! <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
+![github-header-image](https://github.com/adit26data/adit26data/assets/98691664/423cc9e5-6db2-4a6d-ac81-c5a3f238f013)
+
 [![Github Badge](https://img.shields.io/github/followers/adit26data?style=social)](https://github.com/adit26data)
 
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="150">
-<br><br>
-</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
