@@ -42,6 +42,7 @@
 <img alt="Google CDL" src="https://cdn.qwiklabs.com/4PKyOWdv7mWo%2FKM2XFCE1UwMLpWR35w7MszVzjcQnPU%3D" width="150px"/>
 <img alt="Google CDL" src="https://cdn.qwiklabs.com/S9KWMHq5muzmzc%2Fwk%2Blonu6giR8MR0HbkG0CosB2Ygg%3D" width="150px"/>
 <img alt="Google CDL" src="https://cdn.qwiklabs.com/%2BfckvVbPJ%2BOFpCS%2FlDhi%2BpthydzT%2FejEe0tK2ectXTE%3D" width="150px"/>
+<img alt="Google CDL" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89056949" width="150px"/>
 </p>
 
 #### Google Arcade 2023 Badges
