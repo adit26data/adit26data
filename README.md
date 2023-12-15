@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/github/followers/adit26data?style=social)](https://github.com/adit26data)
 
+![github-wrapped](https://github.com/adit26data/adit26data/assets/98691664/172e9b92-c901-460e-9570-a41ea30cfaf5)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
