@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
 
-- 🌱 I’m currently working with **React JS** and starting machine learning concepts!!
+- 🌱 I’m currently working with **NextJS** and starting machine learning concepts!!
 
 - 💬 Ask me about **react, bootstrap and movies!**
 
@@ -23,9 +23,9 @@
 - 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
 - ☁Certified AWS Cloud Practitioner and Google Cloud Digital Leader.
 - Also participating in the Google Cloud Arcade 2023 for September to December months
-- ☄<a href="https://aditresume.tiiny.site">Resume</a>
+- ☄<a href="[https://aditresume.tiiny.sit](https://drive.google.com/file/d/1TKixvIEGp3SZHP96An_escdCEOcm4MLv/edit)e">Resume</a>
 - ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
-- 💻<a href="https://leetcode.com/Adit_Kaushal/">Leetcode profile</a>
+- 💻<a href="https://leetcode.com/Adit26-2003/">Leetcode profile</a>
 
 ### Badges
 #### AWS Badges
