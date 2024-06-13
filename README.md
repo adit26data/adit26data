@@ -14,6 +14,8 @@
 
 - 📟 <a href="https://adit26data.github.io/cleanfolio/">Portfolio link</a>
 
+[![adit26data's GitHub | Stats](https://stats.quine.sh/adit26data/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adit26data)
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
