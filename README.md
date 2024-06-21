@@ -14,6 +14,13 @@
 
 - 📟 <a href="https://portfolio-adit-nextjs.vercel.app/">Portfolio link</a>
 
+## Coding Profile:
+<span>
+<a href="https://leetcode.com/Adit26-2003/">
+<img height="316" src="https://leetcard.jacoblin.cool/Adit26-2003?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/Risshab_Singla/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Adit Kaushal Leetcode Stats"/>
+</a>
+</span>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
