@@ -19,7 +19,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I enjoy working with **Full Stack Web Framworks**
+- 💻 I enjoy working with **Full Stack Web Frameworks**
 - 💬 Talk to me about football, books, carrom, history, films and pretty much anything else.
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
 - 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
@@ -30,38 +30,11 @@
 - 💻<a href="https://leetcode.com/Adit26-2003/">Leetcode profile</a>
 
 ### Badges
-#### AWS Badges
+#### AWS-GCP Cloud Badges
 <p>
 <img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="150px"/>
 <img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px"/>
-
-
-</p>
-
-#### Cloud Digital Leader Badges
-<p>
-<img alt="Google CDL" src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" width="150px"/> 
-<img alt="Google CDL" src="https://cdn.qwiklabs.com/4PKyOWdv7mWo%2FKM2XFCE1UwMLpWR35w7MszVzjcQnPU%3D" width="150px"/>
-<img alt="Google CDL" src="https://cdn.qwiklabs.com/S9KWMHq5muzmzc%2Fwk%2Blonu6giR8MR0HbkG0CosB2Ygg%3D" width="150px"/>
-<img alt="Google CDL" src="https://cdn.qwiklabs.com/%2BfckvVbPJ%2BOFpCS%2FlDhi%2BpthydzT%2FejEe0tK2ectXTE%3D" width="150px"/>
 <img alt="Google CDL" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89056949" width="150px"/>
-</p>
-
-#### Google Arcade 2023 Badges
-<p>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/UtDNNBQRuhR1QFO4SEw0%2Bo8NBzUOoMfPbKeOozFOmtM%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/QJ2qdRscLKI1drS%2BGc3lhqLjNJUsoLcwgY1cvurXGzM%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/%2FPhZyxM0cNcWOnb4ExYMIM3Q3noh85i%2BNhKg%2FlT9Awg%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/tDIlnRU1bZOSqZPEsetFKPtYxRGWqtFrCKn3lJLcjbM%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/bFwLOQ642SPE%2BsitAlzjR4tcGv9mypzSoT%2B%2B%2BWzWR80%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/4C97%2FEIZM85hrm8cm28KhDfIPKluWXfD%2Bqkc5YT9UII%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/giDGmQLpXWfvryTlj1APzwIWkStnybARDav1s7pZIUA%3D" width="100px"/>
-<img alt="Google Arcade" src="https://cdn.qwiklabs.com/EcBuiiZFWEGA%2BmdBkqoe8hd1%2FB91vL28R9PF2nFJGgM%3D" width="100px"/>
-
-
-    
-</p>
-
 </p>
 
 ### Socials
