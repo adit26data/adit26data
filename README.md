@@ -2,13 +2,11 @@
 
 [![Github Badge](https://img.shields.io/github/followers/adit26data?style=social)](https://github.com/adit26data)
 
+[![](https://visitcount.itsvg.in/api?id=adit26data&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
 
 - 🌱 I’m currently working with **NextJS** and machine learning concepts!!
-
-- 💬 Ask me about **react, bootstrap and movies!**
 
 - 📫 How to reach me **kaushaladit26@gmail.com**
 
@@ -56,7 +54,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adit26data&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
