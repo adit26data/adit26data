@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kaushaladit26@gmail.com**
 
-- 📟 <a href="https://adit26data.github.io/cleanfolio/">Portfolio link</a>
+- 📟 <a href="https://portfolio-adit-nextjs.vercel.app/">Portfolio link</a>
 
 [![adit26data's GitHub | Stats](https://stats.quine.sh/adit26data/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adit26data)
 
@@ -25,7 +25,7 @@
 - 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
 - ☁Certified AWS Cloud Practitioner and Google Cloud Digital Leader.
 - Also participating in the Google Cloud Arcade 2023 for September to December months
-- ☄<a href="https://drive.google.com/file/d/1TKixvIEGp3SZHP96An_escdCEOcm4MLv/edit">Resume</a>
+- ☄<a href="https://drive.google.com/file/d/1NH5fPr2Hgp34Sc8iwUZV6Ha05wHrUkQI/view">Resume</a>
 - ☄<a href="https://www.commudle.com/users/e4bb7ae1d65a57dd0c7586fa63c844bd">Google Commudle</a>
 - 💻<a href="https://leetcode.com/Adit26-2003/">Leetcode profile</a>
 
