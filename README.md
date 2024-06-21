@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit26data&label=Profile%20views&color=0e75b6&style=flat" alt="adit26data" /> </p>
 
-- 🌱 I’m currently working with **NextJS** and starting machine learning concepts!!
+- 🌱 I’m currently working with **NextJS** and machine learning concepts!!
 
 - 💬 Ask me about **react, bootstrap and movies!**
 
@@ -19,7 +19,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I enjoy working with **HTML, CSS, React, Javascript and Node. I am well familiarised with web development technologies**
+- 💻 I enjoy working with **Full Stack Web Framworks**
 - 💬 Talk to me about football, books, carrom, history, films and pretty much anything else.
 - 👯 We can connect to play some games like AmongUS, Stumble Guys and Racing games.
 - 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
