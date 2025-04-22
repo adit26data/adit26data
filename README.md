@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently working with **NextJS** and machine learning concepts!!
+- 🌱 I’m currently working with **Spring, React, RxJS, Selenium, TestNG** and machine learning concepts!!
 
 - 📫 How to reach me **kaushaladit26@gmail.com**
 
@@ -21,7 +21,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
+- 🏦 I'm an engineer at Sabre Corporation and I am passionate about learning new technologies.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I enjoy working with **Full Stack Web Frameworks**
 - 💬 Talk to me about football, books, carrom, history, films and pretty much anything else.
